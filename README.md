@@ -1,5 +1,5 @@
 # Java-Singleton-Design
-Java Singleton Pattern is one of the Gangs of Four Design patterns and comes in the Creational Design Pattern category. From the definition, it seems to be a straightforward design pattern, but when it comes to implementation, it comes with a lot of concerns.
+Java Singleton Pattern is one of the Gangs of Four Design Patterns and comes in the Creational Design Pattern category. From the definition, it seems to be a straightforward design pattern, but when it comes to implementation, it comes with a lot of concerns.
 
 In this article, we will learn about singleton design pattern principles, explore different ways to implement the singleton design pattern, and some of the best practices for its usage.
 
